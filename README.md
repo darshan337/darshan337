@@ -1,4 +1,4 @@
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /></p>
+
   
 
 <h1 align="center">Hi 👋, I'm K Darshan Raj Kumar</h1>
