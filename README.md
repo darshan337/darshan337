@@ -1,15 +1,30 @@
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /></p>
+  
+<h3 align="center">A passionate frontend developer from India</h3>
 <h1 align="center">Hi 👋, I'm K Darshan Raj Kumar</h1>
+
+<img align="right" alt="Coding" width="1000" src="https://dragonball.guru/wp-content/uploads/2021/01/goku-dragon-ball-guru.jpg">
+     
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan337&label=Profile%20views&color=0e75b6&style=flat" alt="darshan337" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan337" alt="darshan337" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/5gRzo5rvV48AAAAi/boraa.gif">
 
-<image align="right" alt="coding" width= "400" src= " [https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgoku-vegeta-cool-gif-18156750&psig=AOvVaw27MVCBVDsPoUUmvln-4oLn&ust=1654024331802000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNDq6fr2h_gCFQAAAAAdAAAAABAJ](https://dragonball.guru/wp-content/uploads/2021/01/goku-dragon-ball-guru.jpg) "
 - 🔭 I’m currently working on **AI/ML related projects**
 
 - 🌱 I’m currently learning **B.tech from kl university**
+- Let's talk about
+
+   - Machine Learning
+   - Deep Learning
+   - Image Processing
+    - Open Source
+    - Docker
+    - Writing Articles and anything interesting 😄.
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshan337?tab=repositories](https://github.com/darshan337?tab=repositories)
 
