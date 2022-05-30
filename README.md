@@ -1,13 +1,13 @@
   <p align="left"><img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /></p>
   
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <h1 align="center">Hi 👋, I'm K Darshan Raj Kumar</h1>
 
 <img align="right" alt="Coding" width="1000" src="https://dragonball.guru/wp-content/uploads/2021/01/goku-dragon-ball-guru.jpg">
      
 
 <h3 align="center">A passionate frontend developer from India</h3>
-
+ a Sophmore pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan337" alt="darshan337" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **AI/ML related projects**
 
-- 🌱 I’m currently learning **B.tech from kl university**
+- 🌱 I’m currently learning **B.tech CSE from kl university**
 - Let's talk about
 
    - Machine Learning
